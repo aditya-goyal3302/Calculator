@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/programming/Android/calculator_app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.9" />
+        <entry key="..\:/programming/Android/calculator_app/app/src/main/res/drawable/round_button.xml" value="0.75" />
+        <entry key="..\:/programming/Android/calculator_app/app/src/main/res/drawable/round_button1.xml" value="2.1206896551724137" />
+        <entry key="..\:/programming/Android/calculator_app/app/src/main/res/drawable/text_color.xml" value="2.271875" />
+        <entry key="..\:/programming/Android/calculator_app/app/src/main/res/layout-v28/activity_main.xml" value="0.22" />
+        <entry key="..\:/programming/Android/calculator_app/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/programming/Android/calculator_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="1.3125" />
+        <entry key="..\:/programming/Android/calculator_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="1.210344827586207" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
